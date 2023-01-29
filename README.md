@@ -7,9 +7,13 @@ My first assignment beginning my Masters of Data Science and Innovation involved
 
 With a lot of research and exploration of methods used internationally, incorporated data science methods in this sector could be used as a preventive method, rather than trying to find more sustainable methods to deal with the waste. 
 
-If you're interested and would like to read more, the full artical can be found [here](https://medium.com/@denneya.muscat/opportunities-for-data-science-innovation-in-the-food-sector-35153790294).
+If you're interested and would like to read more, the full article can be found [here](https://medium.com/@denneya.muscat/opportunities-for-data-science-innovation-in-the-food-sector-35153790294).
 
-If you have any 
+If you'd like to get in touch, have feedback or would like to discuss, you can contact me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denneyamuscat)[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denneyam/)
+
+Thank you for reading!
 
 
 
